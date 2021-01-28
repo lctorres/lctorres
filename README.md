@@ -10,9 +10,6 @@ Hi, I'm [Luis C. Torres P.](https://lctorres.tk/), a Full Stack Application Deve
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lctorres&show_icons=true&theme=tokyo" alt="my github stats" width="420"/>&nbsp;<img       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lctorres&layout=compact&theme=tokyo" alt="languages" height="165">
 </p> 
-
-<!-- Statistics of the week -->
-[![Luis Torres Peralta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lctorres)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- websites and link -->
 <p align="center">
