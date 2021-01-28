@@ -12,9 +12,7 @@ Hi, I'm [Luis C. Torres P.](https://lctorres.tk/), a Full Stack Application Deve
 </p> 
 
 <!-- Statistics of the week -->
-<p align="center">
 [![Luis Torres Peralta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lctorres)](https://github.com/anuraghazra/github-readme-stats)
-</p> 
  
 <!-- websites and link -->
 <p align="center">
