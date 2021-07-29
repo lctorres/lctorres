@@ -28,7 +28,7 @@ Hi, I'm [Luis C. Torres P.](https://lctorres.tk/), a Full Stack Application Deve
 <a href="https://instagram.com/1uisinh0/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lctorres" height="20" width="20" />
 </a>
-<a href="https://open.spotify.com/Torres_" target="blank">
+<a href="https://open.spotify.com/user/Torres_" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="lctorres" height="20" width="20" />
 </a>
 </p>
